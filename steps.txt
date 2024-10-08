@@ -1,0 +1,10 @@
+1. preprocess the text
+	- remove punctuation etc
+	- turn words like 'swimming' to 'swim'
+
+2. convert such a preprocessed text to a binary vector
+	- the vector will have the length as all the words in all the abstracts
+	- each paper will have its own vector of this length
+	- 1 if the word is in the abstract and 0 if it is not
+
+3. feed this vector into a model that has a binary outcome

@@ -1,0 +1,6 @@
+	Keywords:
+
+-crossover
+-randomized crossover trials
+-repeated measures crossover trail
+-dual period crossover design
